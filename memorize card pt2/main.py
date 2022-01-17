@@ -24,7 +24,7 @@ class Game():
         
         self.first_lvl = False
 
-        self.img_width, self.img_height = (120,120)
+        self.img_width, self.img_height = (150,150)
         self.padding = 150
         self.margin_top = WINDOW_HEIGHT // 5
         self.cols = 2
