@@ -214,6 +214,8 @@ class Game():
         self.success, self.img = self.cap.read()
         self.shape = self.img.shape[1::-1]
 
+
+
 pygame.init()
 
 WINDOW_WIDTH = 1920
