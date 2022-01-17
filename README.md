@@ -1,2 +1,0 @@
-# pyGame
-pygames
